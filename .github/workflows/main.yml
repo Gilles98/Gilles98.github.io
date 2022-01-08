@@ -12,8 +12,6 @@ jobs:
     - name: checkout
       uses: actions/checkout@v1
       
-    - name: GitHub Pages Deploy
-      uses: Gilles98/Gilles98.github.io/gh-pages-action@v0.0.2
 
     - name: deploy docs
       uses: ./
