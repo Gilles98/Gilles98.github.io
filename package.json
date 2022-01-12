@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://gilles98.github.io/testsite",
+  "homepage": "https://gilles98.github.io/testSite",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
